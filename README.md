@@ -1,12 +1,10 @@
 # Hi there, I'm João Carlos! 👋
 
-### Bio 👨‍💻
+### 👨‍💻 Bio
 - 🔭 I’m currently working at Robert Bosch
 - 🌱 Learning all about Data Science
-- 🤔 I’m looking for help with ...
 - ⚙️ Working with: .python, .r
 - 📫 You can reach me out at LinkedIn or drop me an e-mail 😄
--->
 
 ## 🧰 Top Languages
 
@@ -22,12 +20,12 @@
 </div>
   
 
-### You can check out my personal portfolio with Data Science projects here 📗
+## 📗 You can check out my personal portfolio with Data Science projects here
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrcasoto&repo=portfolio&theme=dracula)](https://github.com/jrcasoto/portfolio)
 
  
-## Social Networks 📮
-
+## 📮 Social Networks (drop a mail!)
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-carlos-casoto-junior/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrcasoto@gmail.com)
