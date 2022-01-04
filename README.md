@@ -3,7 +3,7 @@
 ### 👨‍💻 Bio
 - 🔭 I’m currently working at Robert Bosch
 - 🌱 Learning all about Data Science
-- ⚙️ Working with: .python, .r
+- ⚙️ Working with: <code>.python</code>, <code>.r</code>
 - 📫 You can reach me out at LinkedIn or drop me an e-mail 😄
 
 ## 🧰 Top Languages
