@@ -1,7 +1,7 @@
 # Hi there, I'm João Carlos! 👋
 
 ### 👨‍💻 Bio
-- 🔭 Currently working at Robert Bosch as a Data Scientist
+- 🔭 Currently working at Pagar.me as a Data Scientist
 - 🌱 Learning all about Data Science
 - ⚙️ Working with: <code>.python</code>, <code>.r</code>
 - 📫 You can reach me out at LinkedIn or drop me an e-mail 😄
